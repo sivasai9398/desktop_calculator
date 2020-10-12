@@ -1,0 +1,29 @@
+.button{
+    margin:2px;
+    color:red;
+    width:50px;
+    height:50px;
+    text-align: center;
+    cursor: pointer;
+    align-items: center;
+
+    
+}
+*{
+    text-align: center;
+    background-color:skyblue;
+}
+.textview{
+    width:350px;
+    height:80px;
+}
+.main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+footer{
+    text-align-last: center;
+    
+}
